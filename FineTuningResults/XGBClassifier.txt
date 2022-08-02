@@ -1,0 +1,6 @@
+Random SearchXGBClassifier()
+{'n_estimators': 100, 'max_features': 'auto', 'max_depth': 6, 'criterion': 'entropty'}
+Score: 0.9063058796885203
+Grid SearchXGBClassifier()
+{'criterion': 'gini', 'max_depth': 6, 'max_features': 'log2', 'n_estimators': 100}
+Score: 0.9243476179075891
